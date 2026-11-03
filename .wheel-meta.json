@@ -1,0 +1,22 @@
+{
+  "wheel_id": 699,
+  "structure": "umbrella",
+  "slug": "kitchenrenovationperth-154",
+  "project": "kitchen-renovations-perth-timeline-c81e973bbe506153fcb2f25252eb",
+  "parent_t1_ref": "kitchenrenovationperth-010",
+  "node_role": "buffer",
+  "money_target": "kitchenrenovationperth.com.au",
+  "primary_kw": "kitchen renovations perth timeline",
+  "intended_url": "https://sitesau.github.io/kitchenrenovationperth-154/",
+  "tier": "T2",
+  "writeback_nonce": "5c5be2ea11fe3522",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/kitchen-renovations-perth/",
+      "anchor": "kitchen renovations perth explained",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
